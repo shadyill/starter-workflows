@@ -1,0 +1,17 @@
+{
+  "id": "fff24cab2141a689d91cb364a9ed2c19eafd397f",
+  "entries": [
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "9da009184893d8daa06b2b9cd0a1a387b5204f68",
+      "name": "network"
+    },
+    {
+      "mode": 16384,
+      "type": "tree",
+      "id": "e9fdd3a831aebd6806414afec7bcc38a13425e59",
+      "name": "panels"
+    }
+  ]
+}
